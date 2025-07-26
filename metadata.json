@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of CRM & Business Analytics",
+  "description": "A modern, mobile-first CRM application for managing customers, orders, and payments, featuring an AI-powered business analytics dashboard to provide key insights and suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
